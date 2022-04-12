@@ -1,2 +1,2 @@
 # test
-test my first git repo
+test my first git repository for git command
